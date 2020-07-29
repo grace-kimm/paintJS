@@ -1,3 +1,3 @@
 # paintJS
 
-PaintJS with JavaScript
+PaintJS with JavaScript (2020 ver)
